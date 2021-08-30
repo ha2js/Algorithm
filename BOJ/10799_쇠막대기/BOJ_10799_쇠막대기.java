@@ -9,7 +9,6 @@ public class Main {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	
 		String stick = br.readLine();
-		
 		int open = 0,close = 0,result = 0;
 		
 		for (int i=0; i<stick.length(); i++) {

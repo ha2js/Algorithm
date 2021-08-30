@@ -14,7 +14,6 @@ public class Main {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	
-		
 		for (int i=1; i<=19; i++) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			for (int j=1; j<=19; j++) {
