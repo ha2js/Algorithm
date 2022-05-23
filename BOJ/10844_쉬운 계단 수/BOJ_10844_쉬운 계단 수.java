@@ -1,4 +1,3 @@
-//10844 - 쉬운 계단수
 import java.util.*;
 import java.io.*;
 

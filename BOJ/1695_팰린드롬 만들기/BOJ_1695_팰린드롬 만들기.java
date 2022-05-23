@@ -1,4 +1,3 @@
-//1695 - 팰린드롬 만들기
 import java.util.*;
 import java.io.*;
 

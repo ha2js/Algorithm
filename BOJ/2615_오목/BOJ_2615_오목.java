@@ -1,4 +1,3 @@
-// 2615 - 오목
 import java.io.*;
 import java.util.*;
 

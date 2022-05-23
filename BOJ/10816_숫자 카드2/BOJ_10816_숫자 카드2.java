@@ -1,4 +1,3 @@
-// 10816 - 숫자 카드2
 import java.io.*;
 import java.util.*;
 

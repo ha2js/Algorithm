@@ -1,4 +1,3 @@
-//15482 - 한글 LCS
 import java.util.*;
 import java.io.*;
 

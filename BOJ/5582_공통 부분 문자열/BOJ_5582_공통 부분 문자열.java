@@ -1,4 +1,3 @@
-//5582 - 공통 부분 문자열
 import java.util.*;
 import java.io.*;
 

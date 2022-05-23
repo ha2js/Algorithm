@@ -1,4 +1,3 @@
-//12865 - 평범한 배낭
 import java.util.*;
 import java.io.*;
 

@@ -1,4 +1,3 @@
-// 11650 - 좌표 정렬하기
 import java.util.*;
 
 public class Main {

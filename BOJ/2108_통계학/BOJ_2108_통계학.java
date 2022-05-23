@@ -1,4 +1,3 @@
-// 2108 - 통계학 
 import java.io.*;
 import java.util.*;
 

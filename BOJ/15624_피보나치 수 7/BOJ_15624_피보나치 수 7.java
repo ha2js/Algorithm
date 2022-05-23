@@ -1,4 +1,3 @@
-//15624 - 피보나치 수 7
 import java.util.*;
 import java.io.*;
 

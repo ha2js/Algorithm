@@ -1,4 +1,3 @@
-//14002 - 가장 긴 증가하는 부분 수열4
 import java.util.*;
 import java.io.*;
 

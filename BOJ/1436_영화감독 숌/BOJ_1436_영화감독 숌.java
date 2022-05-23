@@ -1,4 +1,3 @@
-// 1436 - 영화 감독 숌
 import java.io.*;
 import java.util.*;
 

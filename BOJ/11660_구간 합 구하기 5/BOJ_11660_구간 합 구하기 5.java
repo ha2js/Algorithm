@@ -1,4 +1,3 @@
-// 11660 - 구간 합 구하기5
 import java.io.*;
 import java.util.*;
 

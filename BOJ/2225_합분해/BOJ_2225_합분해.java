@@ -1,4 +1,3 @@
-//2225 - 합분해
 import java.util.*;
 import java.io.*;
 

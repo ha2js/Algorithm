@@ -1,4 +1,3 @@
-// 1475 - 방 번호 
 import java.io.*;
 import java.util.*;
 

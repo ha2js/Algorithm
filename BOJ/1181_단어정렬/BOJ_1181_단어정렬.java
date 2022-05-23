@@ -1,4 +1,3 @@
-// 1181 - 단어 정렬
 import java.io.*;
 import java.util.*;
 

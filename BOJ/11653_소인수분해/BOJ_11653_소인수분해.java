@@ -1,4 +1,3 @@
-// 11653 - 소인수분해
 import java.io.*;
 import java.util.*;
 public class Main {

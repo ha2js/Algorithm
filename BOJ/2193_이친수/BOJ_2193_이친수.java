@@ -1,4 +1,3 @@
-// 2193 - 이친수
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,3 @@
-//2293 - 동전1
 import java.util.*;
 import java.io.*;
 

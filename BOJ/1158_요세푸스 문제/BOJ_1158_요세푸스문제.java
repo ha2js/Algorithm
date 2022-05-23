@@ -1,4 +1,3 @@
-// 1158 - 요세푸스 문제
 import java.util.*;
 import java.io.*;
 

@@ -1,4 +1,3 @@
-// 4963 - 섬의 개수
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,3 @@
-//9084 - 동전
 import java.util.*;
 import java.io.*;
 

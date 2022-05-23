@@ -1,4 +1,3 @@
-// 1065 - 한수
 import java.util.*;
 import java.io.*;
 

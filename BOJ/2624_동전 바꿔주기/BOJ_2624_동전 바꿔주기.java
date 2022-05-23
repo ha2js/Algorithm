@@ -1,4 +1,3 @@
-//2624 - 동전 바꿔주기
 import java.util.*;
 import java.io.*;
 

@@ -1,4 +1,3 @@
-// 2178 - 미로탐색
 import java.io.*;
 import java.util.*;
 

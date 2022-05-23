@@ -1,4 +1,3 @@
-// 1012 - 유기농 배추
 import java.io.*;
 import java.util.*;
 

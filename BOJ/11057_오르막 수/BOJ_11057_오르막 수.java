@@ -1,4 +1,3 @@
-//11057 - 오르막수
 import java.util.*;
 import java.io.*;
 

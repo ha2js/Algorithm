@@ -1,4 +1,3 @@
-// 11724 - 연결 요소의 개수
 import java.io.*;
 import java.util.*;
 

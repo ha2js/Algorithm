@@ -1,4 +1,3 @@
-//1788 - 피보나치 수의 확장
 import java.util.*;
 import java.io.*;
 

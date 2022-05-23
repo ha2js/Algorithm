@@ -1,4 +1,3 @@
-//11004 - k번째 수
 import java.util.*;
 import java.io.*;
 

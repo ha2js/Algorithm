@@ -1,4 +1,3 @@
-// 2667 - 단지번호붙이기
 import java.io.*;
 import java.util.*;
 

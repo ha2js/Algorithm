@@ -1,4 +1,3 @@
-// 14501 - 퇴사
 import java.util.*;
 import java.io.*;
 

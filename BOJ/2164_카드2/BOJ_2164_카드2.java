@@ -1,4 +1,3 @@
-// 2164 - 카드2
 import java.io.*;
 import java.util.*;
 

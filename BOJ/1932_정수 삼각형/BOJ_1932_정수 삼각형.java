@@ -1,4 +1,3 @@
-//1932 - 정수 삼각형
 import java.util.*;
 import java.io.*;
 

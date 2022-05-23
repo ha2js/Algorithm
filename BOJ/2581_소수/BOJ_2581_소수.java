@@ -1,4 +1,3 @@
-// 2581 - 소수
 import java.io.*;
 import java.util.*;
 

@@ -1,5 +1,3 @@
-// 10866 - 덱
-
 import java.io.*;
 
 import java.util.*;
